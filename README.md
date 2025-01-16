@@ -1,2 +1,2 @@
-# Movie-Ratings-Data-Analysis
-Explored movie ratings data using non-parametric hypothesis tests to analyze variations by popularity, release era, viewer demographics (e.g., gender, social vs. solo viewing), and franchise consistency. Included effect size calculations and bootstrap confidence intervals for robust, ordinal data analysis.
+# Movie-Ratings-Statistical-Analysis
+Performed in-depth analysis of real movie ratings data, exploring how ratings vary by factors like popularity, release era, gender, social vs. solo viewing preferences, and consistency in franchise quality. Performed hypothesis tests suitable for ordinal categorical data, supplemented by effect size calculations and bootstrap confidence intervals for robust conclusions.
